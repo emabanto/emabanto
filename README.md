@@ -31,7 +31,7 @@
 
 ### 🖥️ Home SOC Lab
 Building a virtualized SOC lab using:
-- Windows & Ubuntu VMs
+- Windows & Kali VMs
 - Sysmon
 - Wireshark
 - Nmap
