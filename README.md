@@ -11,6 +11,7 @@
 ## 🛡️ Certifications
 
 [![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00ADEF?style=for-the-badge)](https://www.credly.com/badges/f7c8e6c2-e475-42c8-b1e4-97d1581ed304/linked_in?t=t0ufkw)
+[![DoD Cyber Sentinel Challenge](https://img.shields.io/badge/DoD-CTF%20Participant-blue?style=for-the-badge)](https://www.credential.net/a432262d-2d14-45ed-9248-dc3394072eb0#acc.b5wNpk60)
 
 ## 🔧 Skills & Tools
 
