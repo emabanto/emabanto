@@ -8,6 +8,10 @@
 
 ---
 
+## 🛡️ Certifications
+
+[![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00ADEF?style=for-the-badge)](https://www.credly.com/badges/f7c8e6c2-e475-42c8-b1e4-97d1581ed304/linked_in?t=t0ufkw)
+
 ## 🔧 Skills & Tools
 
 - Windows & Linux
